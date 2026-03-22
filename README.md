@@ -20,9 +20,8 @@ Após a extração dos dados formatados via SQL, os resultados foram exportados 
 > ### 🖼️ Dashboard / Tabela de Resultados
 > Abaixo, você pode visualizar a consolidação dos dados processados:
 > 
-> ![Tabela de Análise de Leads no Excel](NOME_DA_SUA_IMAGEM.png)
+![Diagrama do Banco](Queries+Diagramas/Analise_De_Perfil_Excel.png)
 > 
-> *Nota: Para visualizar a imagem acima, salve o print do seu Excel na pasta raiz do projeto e substitua "NOME_DA_SUA_IMAGEM.png" pelo nome do arquivo.*
 
 ---
 
