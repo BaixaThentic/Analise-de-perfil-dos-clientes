@@ -1,6 +1,6 @@
 -- (Query 1) Gênero dos leads
 -- Colunas: gênero, leads(#)
-select
+select 
 	case
 		when ibge.gender = 'male' then 'homens'
 		when ibge.gender = 'female' then 'mulheres'
